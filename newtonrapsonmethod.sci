@@ -16,7 +16,4 @@ function y=NRMethod(x0)
     y=x0;
 endfunction
 
-//f(1)
-//f(2)
-//BMethod(1,2)
-    
+//NRMethod(0,2)

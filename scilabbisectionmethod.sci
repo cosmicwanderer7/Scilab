@@ -26,3 +26,8 @@ function y=BMethod(a,b)
    end 
  end
 endfunction
+
+//f(1)
+//f(2)
+//BMethod(1,2)
+    
